@@ -1,19 +1,19 @@
 # Swifty-Companion
 
 # Objectives
-Environnement iOS,
-Swift, 
-Frameworks Apple,
-API 42 
+Environnement iOS,<br />
+Swift, <br />
+Frameworks Apple,<br />
+API 42 <br />
 
 # Skills
-Adaptation & creativity,
-DB & Data,
-Technology integration,
-Object-oriented programming 
+Adaptation & creativity,<br />
+DB & Data,<br />
+Technology integration,<br />
+Object-oriented programming <br />
 
 # How to compile this project
-using terminal cd into the root of the directory
-run: pod install
-when its done installing, open the project with Xcode
+using terminal cd into the root of the directory.<br />
+run: pod install.<br />
+when its done installing, open the project with Xcode.<br />
 # Enjoy
