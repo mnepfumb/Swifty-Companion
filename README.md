@@ -1,7 +1,7 @@
 # Swifty-Companion
 
 # Objectives
-Environnement iOS,
+Environnement iOS,\n
 Swift, 
 Frameworks Apple,
 API 42 
