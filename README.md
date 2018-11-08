@@ -1,15 +1,15 @@
 # Swifty-Companion
 
 # Objectives
-Environnement iOS 
-Swift 
-Frameworks Apple 
+Environnement iOS,
+Swift, 
+Frameworks Apple,
 API 42 
 
 # Skills
-Adaptation & creativity 
-DB & Data 
-Technology integration 
+Adaptation & creativity,
+DB & Data,
+Technology integration,
 Object-oriented programming 
 
 # How to compile this project
